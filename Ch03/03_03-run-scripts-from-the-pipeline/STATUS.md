@@ -1,3 +1,3 @@
-# Using embaded plugin status
+# Using embedded plugin status
 
-[![Build Status](http://ec2-18-116-42-97.us-east-2.compute.amazonaws.com:8080/buildStatus/icon?job=fibonacci-series)](http://ec2-18-116-42-97.us-east-2.compute.amazonaws.com:8080/job/fibonacci-series/)
+[![Build Status](http://40.71.183.157:8080/buildStatus/icon?job=fibonacci_pipeline)](http://52.179.87.41:8080/job/fibonacci_pipeline/)
